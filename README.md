@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+[![Deploy to GitHub Pages](https://github.com/kernda3-hash/techflow-solutions-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/kernda3-hash/techflow-solutions-website/actions/workflows/deploy.yml)
 A modern, responsive team website for TechFlow Solutions built as part of a software development workflow assignment. TechFlow solutions is a web development company specializing in custom websites for small businesses.
 
 

@@ -1,6 +1,6 @@
 # TechFlow Solutions Website
+A modern, responsive team website for TechFlow Solutions built as part of a software development workflow assignment. TechFlow solutions is a web development company specializing in custom websites for small businesses.
 
-A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
 ## Project Structure
 
